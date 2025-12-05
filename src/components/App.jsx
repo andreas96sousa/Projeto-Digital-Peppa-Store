@@ -5,7 +5,8 @@ const App = () => {
   return (
     <>
       <Header
-      style="w-full h-25 flex justify-between p-5"
+      style="w-full h-[12rem] bg-neutral-200 flex flex-col justify-between 
+      px-[6.5rem] py-[2.75]"
       > teste
         <Div style=''>
 
